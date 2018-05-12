@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Galenos.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Clínica Galenos Chile</title>
+    <link type="text/css" href="css/style.css" rel="stylesheet"/>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
+	<script src="js/jquery.min.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="content">
+	<header>
+		<div id="top">
+			<div><h1>Galenos</h1></div>
+            <asp:Button ID="btnRegistro" runat="server" Text="Registro" />
+            <asp:Button ID="btnIngreso" runat="server" Text="Ingreso" OnClick="btnIngreso_Click" />
+            <asp:Label ID="lblCliente" runat="server" Text=""></asp:Label>
+		    <asp:Button ID="btnSalir" runat="server" Text="Salir" OnClick="btnSalir_Click" />
+		</div>
+		
+		<nav id="menu">
+			<ul>
+				<li><a href="Inicio.aspx">Inicio</a></li>
+				<li><a href="">Reservas Online</a></li>
+				<li><a href="Profesionales.aspx">Profesionales</a></li>
+				<li><a href="">Contacto</a></li>
+			</ul>
+		</nav>
+	</header>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
