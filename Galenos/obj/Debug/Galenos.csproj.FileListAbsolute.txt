@@ -37,3 +37,43 @@ C:\Users\Jose\Documents\Visual Studio 2015\Projects\Galenos\Galenos\bin\Newtonso
 C:\Users\Jose\Documents\Visual Studio 2015\Projects\Galenos\Galenos\obj\Debug\Galenos.dll
 C:\Users\Jose\Documents\Visual Studio 2015\Projects\Galenos\Galenos\obj\Debug\Galenos.pdb
 C:\Users\Jose\Documents\Visual Studio 2015\Projects\Galenos\Galenos\obj\Debug\Galenos.csprojResolveAssemblyReference.cache
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\ApplicationInsights.config
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\roslyn\csc.exe
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\roslyn\vbc.exe
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\roslyn\VBCSCompiler.exe
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Galenos.dll.config
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Galenos.dll
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Galenos.pdb
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Flurl.dll
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Flurl.Http.dll
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Microsoft.AI.Web.dll
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Microsoft.ApplicationInsights.dll
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Newtonsoft.Json.dll
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Flurl.xml
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Flurl.Http.xml
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Microsoft.AI.Web.xml
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Microsoft.ApplicationInsights.xml
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\bin\Newtonsoft.Json.xml
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\obj\Debug\Galenos.csprojResolveAssemblyReference.cache
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\obj\Debug\Galenos.csproj.CoreCompileInputs.cache
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\obj\Debug\Galenos.dll
+C:\Users\CETECOM\Downloads\galenos-master\Galenos\obj\Debug\Galenos.pdb
